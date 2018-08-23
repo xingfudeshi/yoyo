@@ -1,11 +1,3 @@
-/**
- * Copyright (C), 2018-2018, truthai.cn
- * FileName: MyAutoConfiguration
- * Author:   Wu
- * Date:     2018/8/8 9:48
- * Description:
- * History:
- */
 package com.github.xingfudeshi.yoyo.config;
 
 
@@ -28,7 +20,6 @@ import java.util.Objects;
  * 〈〉
  *
  * @author Wu
- * @create 2018/8/8
  * @since 1.0.0
  */
 

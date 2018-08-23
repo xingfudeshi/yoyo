@@ -1,18 +1,10 @@
-/**
- * Copyright (C), 2018-2018, truthai.cn
- * FileName: StarterException
- * Author:   Wu
- * Date:     2018/8/7 9:13
- * Description: 自定义rocketmq异常
- * History:
- */
+
 package com.github.xingfudeshi.yoyo.exception;
 
 /**
  * 〈自定义rocketmq异常〉
  *
  * @author Wu
- * @create 2018/8/16
  * @since 1.0.0
  */
 public class StarterException extends Exception {

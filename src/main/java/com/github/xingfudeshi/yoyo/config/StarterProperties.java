@@ -1,11 +1,3 @@
-/**
- * Copyright (C), 2018-2018, truthai.cn
- * FileName: StarterProperties
- * Author:   Wu
- * Date:     2018/8/16 16:20
- * Description:
- * History:
- */
 package com.github.xingfudeshi.yoyo.config;
 
 
@@ -17,7 +9,6 @@ import java.util.Map;
 /**
  *
  * @author Wu
- * @create 2018/8/16
  * @since 1.0.0
  */
 @ConfigurationProperties("yoyo.starter")

@@ -1,11 +1,4 @@
-/**
- * Copyright (C), 2018-2018, truthai.cn
- * FileName: CheckLockTask
- * Author:   Wu
- * Date:     2018/8/17 9:26
- * Description:
- * History:
- */
+
 package com.github.xingfudeshi.yoyo.task;
 
 import org.slf4j.Logger;
@@ -18,7 +11,6 @@ import java.util.concurrent.Callable;
 /**
  * check the lock file ,will return true when the lock file created
  * @author Wu
- * @create 2018/8/17
  * @since 1.0.0
  */
 public class CheckLockTask implements Callable<Boolean> {

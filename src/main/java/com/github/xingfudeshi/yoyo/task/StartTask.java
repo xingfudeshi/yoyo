@@ -1,11 +1,4 @@
-/**
- * Copyright (C), 2018-2018, truthai.cn
- * FileName: StartTask
- * Author:   Wu
- * Date:     2018/8/17 9:35
- * Description:
- * History:
- */
+
 package com.github.xingfudeshi.yoyo.task;
 
 
@@ -16,7 +9,6 @@ import org.slf4j.LoggerFactory;
  * 〈〉
  *
  * @author Wu
- * @create 2018/8/17
  * @since 1.0.0
  */
 public class StartTask implements Runnable {

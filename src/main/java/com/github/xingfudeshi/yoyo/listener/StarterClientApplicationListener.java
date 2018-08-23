@@ -1,11 +1,4 @@
-/**
- * Copyright (C), 2018-2018, truthai.cn
- * FileName: StarterApplicationListener
- * Author:   Wu
- * Date:     2018/8/16 17:16
- * Description:
- * History:
- */
+
 package com.github.xingfudeshi.yoyo.listener;
 
 import com.github.xingfudeshi.yoyo.annotation.EnableStarterClient;
@@ -22,7 +15,6 @@ import java.io.File;
 /**
  *
  * @author Wu
- * @create 2018/8/20
  * @since 1.0.0
  */
 public class StarterClientApplicationListener implements ApplicationListener<ApplicationEvent> {
