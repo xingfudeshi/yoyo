@@ -6,8 +6,8 @@ Quick start:
 
 ```java
 <dependency>
-	<groupId>com.github.xingfudeshi</groupId>
-	<artifactId>yoyo</artifactId>
-	<version>1.0.0</version>
+    <groupId>com.github.xingfudeshi</groupId>
+    <artifactId>yoyo</artifactId>
+    <version>1.0.0</version>
 </dependency>
 ```
