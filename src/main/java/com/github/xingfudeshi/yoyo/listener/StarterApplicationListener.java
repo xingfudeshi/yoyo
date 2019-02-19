@@ -53,7 +53,7 @@ public class StarterApplicationListener implements ApplicationListener<Applicati
                         String fileName=pidfile.getName();
                         String pid=fileName.substring(0,fileName.lastIndexOf("."));
                         logger.info("trying to kill pid:{}",pid);
-                        Runtime.getRuntime().exec(new String []{"kill",pid});
+                        Runtime.getRuntime().exec(new String []{"kill","-9",pid});
                         logger.info("deleting pid file :{},result:{}",pidfile.getAbsolutePath(),FileUtils.deleteQuietly(pidfile));
 
                     }
