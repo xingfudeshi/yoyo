@@ -8,6 +8,6 @@ Quick start:
 <dependency>
     <groupId>com.github.xingfudeshi</groupId>
     <artifactId>yoyo</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 </dependency>
 ```
